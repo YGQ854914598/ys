@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initView() {
+
         TextView viewById = (TextView) findViewById(R.id.tv);
+
     }
 }
